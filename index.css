@@ -166,3 +166,10 @@ h3{
         bottom: 25px;
     
 }
+.text-pill{
+    font-weight: 600;
+}
+#red .text-pill{
+    color: #ff00005f;
+
+}
